@@ -1,0 +1,59 @@
+{
+  "header":
+  [
+    {
+      "to_translate": "À propos",
+      "translation": "About",
+    },
+    {
+      "to_translate": "Qui sommes-nous ?",
+      "translation": "Who are we ?",
+    }
+  ],
+   "content":
+   [
+    {
+      "to_translate": "À propos du moteur",
+      "translation": "About the engine",
+    },
+    {
+      "to_translate": "C'est un moteur de jeu. Avec celui-ci, vous pourrez créer vos propres jeux de A à Z.",
+      "translation": "It is a game engine",
+    },
+    {
+      "to_translate": "Que peut t'on créer avec?",
+      "translation": "What can we create with?",
+    },
+    {
+      "to_translate": "Créez tout ce dont vous voulez. Jeux mobiles, Windows, macOS, Console et encore plus ! Créer plusieurs niveaux, des effets sonores, développez vos jeux en Python, en C#, en C++ et en Java ou bien avec notre script visuel: CodeGraph.",
+      "translation": "",
+    },
+    {
+      "to_translate": "SUIVEZ TOUTE L'ACTUALITÉ SUR NOTRE WEBTV: AUSTELTV !",
+      "translation": "FOLLOW ALL THE NEWS ON OUR WEBTV: AUSTELTV!",
+    },
+    {
+      "to_translate": "Une diffusion chaque mois !",
+      "translation": "A broadcast every month !",
+    },
+    {
+      "to_translate": "Pourquoi regarder AustelTV?",
+      "translation": "Why watch AustelTV?",
+    },
+    {
+      "to_translate": "- Pour connaître l'avancement et/ou les nouveautés du moteur, site et autres.",
+      "translation": "- To know the progress and/or news of the engine, site and other.",
+    },
+    {
+      "to_translate": "Suivez toutes les nouveautés d'AustelEngine",
+      "translation": "Follow all the news from AustelEngine",
+    },
+    {
+      "to_translate": "Restez informé !",
+      "translation": "Stay informed!",
+    },
+    {
+      "to_translate": "Pour être informé des nouveautés, rendez-vous réguilièrement sur notre blog en cliquant sur l'onglet pour dans le menu supérieur de la page.",
+      "translation": "To be informed of news, regularly visit our blog by clicking on the tab for in the top menu of the page.",
+    }
+  ],
