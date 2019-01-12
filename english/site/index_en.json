@@ -34,7 +34,7 @@
     },
     {
       "to_translate": "Aucun partenaire !",
-      "translation": "Not partner",
+      "translation": "Not a partner?",
     },
     {
       "to_translate": "Le devenir? Cliquez ici",
@@ -45,7 +45,7 @@
   [
     {
       "to_translate": "Publiez vos jeux partout dans le monde et sur presque toutes les plateformes !",
-      "translation": "Publish your games anywhere in the world and almost any platform !",
+      "translation": "Publish your games anywhere in the world on almost any platform !",
     },
     {
       "to_translate": "Créer",
@@ -66,11 +66,11 @@
     },
     {
       "to_translate": "Une fois le développement de votre jeu terminé, publiez le à travers le monde sur mobile, console et ordinateur. D'autres plateformes s'ajouteront*",
-      "translation": "Once the development of your game is over, publish in worldwide on mobile, console and computer. Other platforms will be added.*",
+      "translation": "Once the development of your game is over, publish it worldwide on mobile, console and computer. Other platforms will be added.*",
     },
     {
       "to_translate": "Profitez de notre tableau de bord pour voir le nombre d'utilisateurs, les profits que vos jeux ont apporté, et autre donnée pertinante.",
-      "translation": "Take advantage of our dashboard to see number of users, the profits that your games have brought, and other relevant facts.",
+      "translation": "Take advantage of our dashboard to see the number of users, the profits that your games have made, and other relevant facts.",
     },
     {
       "to_translate": "Lire plus",
@@ -93,7 +93,7 @@
   [
     {
       "to_translate": "Stocker vos projets dans le cloud",
-      "translation": "Stock your projects in the cloud",
+      "translation": "Keep your projects in the cloud",
     },
     {
       "to_translate": "Continuer les sur d'autres plateformes !",
@@ -101,7 +101,7 @@
     },
     {
       "to_translate": "Vous pouvez stocker vos projets dans le cloud ce qui permet de le continuer sur une autre plateforme ! Également utile pour faire des sauvegardes.",
-      "translation": "You can stock your projets in the cloud which allows you to continue on another platform ! Also useful for making backups.",
+      "translation": "You can keep your projects on the cloud which allows you to continue on another platform ! Also useful for making backups.",
     }
   ],
     "prices":
@@ -112,7 +112,7 @@
     },
     {
       "to_translate": "Trois versions sont disponibles: la versions communauté utilisable et complète, la versions professionnelle qui permet de stocker ses projets dans le cloud et plus, puis la version buisness pour les entreprises petite ou grande !",
-      "translation": "Three versions are available: the usable and complete community version, the professional version that allows you to store your projects in the cloud and more, then the buisness version for small or large companies!",
+      "translation": "Three versions are available: the usable and complete community version, the professional version that allows you to store your projects on the cloud and more, then the buisness version for small or large companies!",
     },
     {
       "to_translate": "Gratuit",
@@ -144,7 +144,7 @@
     },
     {
       "to_translate": "-Stocker 5 jeux maximum dans le cloud",
-      "translation": "- Stock up to 5 games in the cloud",
+      "translation": "- Keep up to 5 games on the cloud",
     },
     {
       "to_translate": "- 6 fonctionnalités supplémentaires sur notre tableau de bord",
@@ -152,7 +152,7 @@
     },
     {
       "to_translate": "- Support plus rapide",
-      "translation": "- Faster support",
+      "translation": "- Quicker support",
     },
     {
       "to_translate": "- Publier ses jeux en tant que modèle publique.",
@@ -160,11 +160,11 @@
     },
     {
       "to_translate": "Pour les entreprises",
-      "translation": "For the enterprises",
+      "translation": "For the companies",
     },
     {
       "to_translate": "- Stocker 10 jeux maximum dans le cloud",
-      "translation": "- Stock up to 10 game in the cloud",
+      "translation": "- Keep up to 10 games on the cloud",
     },
     {
       "to_translate": "- 15 fonctionnalités de plus sur notre tableau de bord",
@@ -172,7 +172,7 @@
     },
     {
       "to_translate": "- Support 24h/24",
-      "translation": "- Support 24h/24",
+      "translation": "- 24/7 Support!",
     },
     {
       "to_translate": "- Publier ses jeux en tant que modèle publique et revendez-les",
